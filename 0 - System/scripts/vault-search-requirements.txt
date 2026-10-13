@@ -1,0 +1,3 @@
+# Python dependencies for the vault search scripts (installed by vault-python.sh --setup).
+numpy==2.3.5
+PyYAML==6.0.3
